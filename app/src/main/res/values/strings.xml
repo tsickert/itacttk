@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">I Took A Chart To The Knee</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_charts">ChartsActivity</string>
+    <string name="title_activity_south_korean_charts">SouthKoreanChartsActivity</string>
+    <string name="title_activity_image_grid">ImageGridActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+</resources>
